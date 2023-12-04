@@ -108,13 +108,13 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/sg-hwang-333">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sg-hwang-333&theme=radical&border=7F3FBF&background=0D1117" alt="Seulgi's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/sg-hwang-333">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sg-hwang-333&theme=radical" alt="Seulgi's GitHub Contribution"/>
   </a>
 </p>
