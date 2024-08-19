@@ -79,7 +79,6 @@
 ![Eclips](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white)
 ![EditPlus](https://img.shields.io/badge/EditPlus-ff5e3c?style=for-the-badge&logo=stackedit&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white)
-![DevC++](https://img.shields.io/badge/DevC++-DF0101?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
