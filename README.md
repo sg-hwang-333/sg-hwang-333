@@ -14,7 +14,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a student web developer from <b>Mirim Meister High School</b> 」
+    「 I am a student web developer from <b>Conalog</b> 」
     <br>
     <br>
   </samp>
